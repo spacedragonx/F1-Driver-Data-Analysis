@@ -60,3 +60,8 @@ F1 Timing Data provided by ergast.com
 
 ![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/posi.png?raw=true)
 
+![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/RacingLineComparision.png?raw=true)
+
+Max speed of Verstappen in Turn 9: 302.0
+Max speed of Leclerc in Turn 9: 318.0
+
