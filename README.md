@@ -58,11 +58,11 @@ F1 Timing Data provided by ergast.com
 
 ## Screenshots
 
-![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/posi.png?raw=true)
+![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/Screenshots/posi.png?raw=true)
 
 # 
 Race line conparision
-![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/RacingLineComparision.png?raw=true)
+![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/Screenshots/RacingLineComparision.png?raw=true)
 
 Max speed of Verstappen in Turn 9: 302.0
 
@@ -73,6 +73,6 @@ Leclercs Racing line is better with more speed in and out of the corner than Ver
 # 
 Pit-stop strategies
 
-![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/PitStrategy.png?raw=true)
+![App Screenshot](https://github.com/spacedragonx/F1-Driver-Data-Analysis/blob/main/Screenshots/PitStrategy.png?raw=true)
 
 
